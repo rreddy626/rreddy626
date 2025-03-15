@@ -7,9 +7,4 @@ My name is Rahul! I am a Data Scientist, currently at the intersection of buildi
 - M.S. Computer Science @ [University of Virginia](https://www.virginia.edu/)
 
 ### Skills:
-- Python
-- Java
-- C
-- SQL
-- Bash
-- MATLAB
+- Python, Java, C, SQL, Bash, MATLAB
