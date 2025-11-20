@@ -7,7 +7,7 @@ My name is Rahul! I am passionate about AI/ML Security, Adversarial Machine Lear
 - M.S. Computer Science @ [University of Virginia](https://www.virginia.edu/)<sup>*</sup>
 
 ### Skills:
-- Python, Java, C, SQL, Bash, MATLAB, OCaml, Ruby 
+- Python, Java, C, SQL, Bash, MATLAB, Ruby, KQL
 
 ### Tools:
 - Cron, Elasticsearch, Kibana, Dash, Flask, Git, Jenkins, Jira, Linux, PyTorch, Tableau
