@@ -1,6 +1,6 @@
 ## Welcome! :wave:
 
-My name is Rahul! I am passionate about AI/ML Security, Adversarial Machine Learning, Data Engineering, Geography, and Mathematics. Please don't hesitate to [reach out](mailto:rahulreddy.usa@gmail.com) if you're interested in collaborating! 
+My name is Rahul! I am passionate about AI/ML Security, ML Safeguards, Adversarial Machine Learning, and Data Engineering. Please don't hesitate to [reach out](mailto:rahulreddy.usa@gmail.com) if you're interested in collaborating! 
 
 ### Background:
 - B.S. Computer Science, B.S. Mathematics @ [University of Maryland, College Park](https://umd.edu/)
