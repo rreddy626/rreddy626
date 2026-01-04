@@ -4,7 +4,7 @@ My name is Rahul! I am passionate about AI/ML Security, ML Safeguards, Adversari
 
 ### Background:
 - B.S. Computer Science, B.S. Mathematics @ [University of Maryland, College Park](https://umd.edu/)
-- M.S. Computer Science @ [University of Virginia](https://www.virginia.edu/)<sup>*</sup>
+- M.S. Computer Science @ [University of Virginia](https://www.virginia.edu/)
 
 ### Skills:
 - Python, Java, C, SQL, Bash, MATLAB, Ruby, KQL
